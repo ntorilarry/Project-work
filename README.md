@@ -30,3 +30,5 @@ Academic Registration
                (This should be clickable to view the details)
 4.
 Contact details beneath the page (Just as shown on the UGBS page)
+
+project demo link: https://ugbs.netlify.app/wmba.html
