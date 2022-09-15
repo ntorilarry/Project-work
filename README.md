@@ -27,7 +27,7 @@ Academic Registration
 •	100% before registration for the Second Semester
 •	View the bank details for student fee payment 
 
-               (This should be clickable to view the details)
+(This should be clickable to view the details)
 4.
 Contact details beneath the page (Just as shown on the UGBS page)
 
