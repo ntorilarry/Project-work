@@ -23,12 +23,11 @@ Saturdays: From 7:30am – 6:30pm (Both Online and Onsite)
 Fee Schedule (this should be on the extreme right corner of the page)
 
 Academic Registration 
-•	At least 50% before registration for the First Semester
-•	100% before registration for the Second Semester
-•	View the bank details for student fee payment 
+•At least 50% before registration for the First Semester
+•100% before registration for the Second SemesterView the bank details for student fee payment 
 
 (This should be clickable to view the details)
 4.
 Contact details beneath the page (Just as shown on the UGBS page)
 
-project demo link: https://ugbs.netlify.app/wmba.html
+project demo link: https://ugbs.netlify.app
